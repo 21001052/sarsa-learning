@@ -24,8 +24,8 @@ Update State and Action and repeat the step 3 untill the episodes ends.
 
 ## SARSA LEARNING FUNCTION
 ```
-DEVELOPED BY: DHIVYA SHRI B
-REGISTER NUMBER: 212221230009
+DEVELOPED BY: Thamaraiselvan
+REGISTER NUMBER: 212221230115
 def sarsa(env,
           gamma=1.0,
           init_alpha=0.5,
